@@ -1,6 +1,6 @@
 # MY FIT
 
-![MY FIT Screenshot](img.png)
+![MY FIT Screenshot](myfit.png)
 
 MY FIT is an Android application developed in 2019 that enhances the online clothing shopping experience by enabling users to visually compare clothing sizes using OCR and intuitive 2D modeling.
 1. Input measurements for owned items
